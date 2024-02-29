@@ -2,14 +2,19 @@
 
 ## Tools
 
+_web_
+
+- https://github.com/pallets/flask
 - https://www.w3schools.com/django/index.php
-- https://www.w3schools.com/python/pandas/default.asp
+- https://pyscript.net/
 
 #### UI
 - https://metanit.com/python/tkinter/
 
 
 #### DB
+
+- https://www.w3schools.com/python/pandas/default.asp
 
 _sql_
 
