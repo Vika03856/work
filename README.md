@@ -31,6 +31,9 @@ _nosql_
 - https://www.w3schools.com/mongodb/index.php
 - https://www.w3schools.com/python/python_mongodb_getstarted.asp
 
+_deploy_
+
+- https://vercel.com/docs/functions/runtimes/python
 
 ## Theory
 
