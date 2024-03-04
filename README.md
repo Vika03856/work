@@ -1,13 +1,11 @@
 ## Apps
 
-Hto ya takaya (Streamlit + Panda)
-- https://docs.streamlit.io/get-started/fundamentals/main-concepts#use-magic
-  
-Hto ya takaya (Static, Flask)
-
 ToDo SaaS
 
 Book Store
+
+Presentation (Streamlit + Panda)
+- https://docs.streamlit.io/get-started/fundamentals/main-concepts#use-magic
 
 AI Tool
 - https://huggingface.co/tasks/table-question-answering
@@ -19,7 +17,6 @@ AI Tool
 _web_
 
 - https://github.com/pallets/flask
-- https://www.w3schools.com/django/index.php
 - https://pyscript.net/
 
 #### UI
@@ -59,6 +56,9 @@ _nosql_
 
 - https://www.w3schools.com/mongodb/index.php
 - https://www.w3schools.com/python/python_mongodb_getstarted.asp
+
+_Django_
+- https://www.w3schools.com/django/index.php
 
 #### Deploy
 
