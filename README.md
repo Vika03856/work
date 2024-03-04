@@ -49,3 +49,5 @@ _nosql_
 ## Theory
 
 - https://www.w3schools.com/python/default.asp
+
+## AI
