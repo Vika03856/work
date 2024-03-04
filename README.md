@@ -1,4 +1,4 @@
-## Apps
+# Apps
 
 ToDo SaaS
 
@@ -12,7 +12,7 @@ AI Tool
 - mistral/replicate/hugginface/transformers
 
 
-## Tools
+# Tools
 
 _web_
 
@@ -59,8 +59,12 @@ _nosql_
 - https://www.w3schools.com/mongodb/index.php
 - https://www.w3schools.com/python/python_mongodb_getstarted.asp
 
+_FastAPI_
+- https://metanit.com/python/fastapi/1.1.php
+
 _Django_
 - https://www.w3schools.com/django/index.php
+- https://metanit.com/python/django/
 
 #### Deploy
 
@@ -68,12 +72,14 @@ _Django_
 - https://vercel.com/docs/functions/runtimes/python
 - https://fly.io/docs/languages-and-frameworks/python/
 
-## Theory
+# Theory
 
 - https://www.w3schools.com/python/default.asp
+- https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
+- https://metanit.com/python/
 
 Декораторы
 
 Лямбда
 
-## AI
+# AI
