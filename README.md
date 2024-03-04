@@ -8,6 +8,10 @@ ToDo SaaS
 
 Book Store
 
+AI Tool
+- https://huggingface.co/tasks/table-question-answering
+- mistral/replicate/hugginface/transformers
+
 
 ## Tools
 
