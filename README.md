@@ -11,6 +11,8 @@ AI Tool
 - https://huggingface.co/tasks/table-question-answering
 - mistral/replicate/hugginface/transformers
 
+Desktop App wit Tkinter/PyQT
+- https://pythonbasics.org/pyqt-hello-world/
 
 # Tools
 
@@ -61,6 +63,7 @@ sqlalchemy
 #### UI
 - https://metanit.com/python/tkinter/
 - https://www.gradio.app/
+- https://pythonbasics.org/pyqt/
 
 #### Streamlit
 
@@ -75,6 +78,9 @@ _Flask_
 
 _FastAPI_
 - https://metanit.com/python/fastapi/1.1.php
+
+_Bottle_
+https://bottlepy.org/docs/dev/
 
 _Django_
 - https://www.w3schools.com/django/index.php
