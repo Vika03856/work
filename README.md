@@ -14,33 +14,25 @@ AI Tool
 
 # Tools
 
-_web_
+## Data
 
-- https://github.com/pallets/flask
-- https://pyscript.net/
+csv, json, xlsx
 
-#### UI
-- https://metanit.com/python/tkinter/
-- https://www.gradio.app/
+_Pandas_
+- https://proglib.io/p/samouchitel-po-pandas-dlya-nachinayushchih-chast-25-osnovy-analiza-dannyh-s-pandas-2023-07-24
+- https://www.w3schools.com/python/pandas/default.asp
+- https://pythonbasics.org/pandas-json/
 
-#### Streamlit
+## DB
 
-- https://streamlit.io/
-- https://cheat-sheet.streamlit.app/
+dbm, pickle и shelves
 
-  
-#### DB
+SQLite
+- https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-22-osnovy-raboty-s-sqlite-2023-06-15
 
 - https://www.w3schools.com/python/pandas/default.asp
 - https://github.com/coleifer/sqlite-web
 - https://sqliteviewer.app/
-
-_ORM_
-
-sqlalchemy
-- https://skillbox.ru/media/code/sqlalchemy-chto-eto-takoe-i-zachem-nuzhno/
-- https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
-- https://metanit.com/python/database/3.1.php
 
 _sql_
 
@@ -59,6 +51,28 @@ _nosql_
 - https://www.w3schools.com/mongodb/index.php
 - https://www.w3schools.com/python/python_mongodb_getstarted.asp
 
+_ORM_
+
+sqlalchemy
+- https://skillbox.ru/media/code/sqlalchemy-chto-eto-takoe-i-zachem-nuzhno/
+- https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
+- https://metanit.com/python/database/3.1.php
+
+#### UI
+- https://metanit.com/python/tkinter/
+- https://www.gradio.app/
+
+#### Streamlit
+
+- https://streamlit.io/
+- https://cheat-sheet.streamlit.app/
+
+#### Framework
+
+_Flask_
+- https://github.com/pallets/flask
+- https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-23-osnovy-veb-razrabotki-na-flask-2023-06-27
+
 _FastAPI_
 - https://metanit.com/python/fastapi/1.1.php
 
@@ -72,11 +86,16 @@ _Django_
 - https://vercel.com/docs/functions/runtimes/python
 - https://fly.io/docs/languages-and-frameworks/python/
 
+#### Разное
+- https://pyscript.net/
+
 # Theory
 
 - https://www.w3schools.com/python/default.asp
 - https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
 - https://metanit.com/python/
+
+[Python Basics]([url](https://pythonbasics.org/)https://pythonbasics.org/)
 
 Декораторы
 
