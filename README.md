@@ -1,7 +1,8 @@
 ## Apps
 
 Hto ya takaya (Streamlit + Panda)
-
+- https://docs.streamlit.io/get-started/fundamentals/main-concepts#use-magic
+  
 Hto ya takaya (Static, Flask)
 
 ToDo SaaS
