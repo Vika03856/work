@@ -16,6 +16,7 @@ _web_
 
 - https://www.w3schools.com/python/pandas/default.asp
 - https://github.com/coleifer/sqlite-web
+- https://sqliteviewer.app/
 
 _sql_
 
