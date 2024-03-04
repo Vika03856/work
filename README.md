@@ -107,4 +107,9 @@ _Django_
 
 Лямбда
 
+async/await
+- https://docs-python.ru/tutorial/sintaksis-async-await-python/
+- https://docs.python.org/3/library/asyncio-task.html
+- https://docs.python.org/3/library/asyncio.html
+
 # AI
