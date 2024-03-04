@@ -1,5 +1,14 @@
 ## Apps
 
+Hto ya takaya (Streamlit + Panda)
+
+Hto ya takaya (Static, Flask)
+
+ToDo SaaS
+
+Book Store
+
+
 ## Tools
 
 _web_
@@ -10,8 +19,14 @@ _web_
 
 #### UI
 - https://metanit.com/python/tkinter/
+- https://www.gradio.app/
 
+#### Streamlit
 
+- https://streamlit.io/
+- https://cheat-sheet.streamlit.app/
+
+  
 #### DB
 
 - https://www.w3schools.com/python/pandas/default.asp
