@@ -95,7 +95,7 @@ _Django_
 - https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
 - https://metanit.com/python/
 
-[Python Basics]([url](https://pythonbasics.org/)https://pythonbasics.org/)
+[Python Basics](https://pythonbasics.org/)
 
 Декораторы
 
