@@ -99,17 +99,19 @@ _Django_
 
 ## Русскоязычные курсы
 
-https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
+[ПитонТьютор](https://pythontutor.ru/lessons/inout_and_arithmetic_operations/)
 
-https://metanit.com/python/
+[Метанит / Python](https://metanit.com/python/)
 
 ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/promo)
 
 ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/promo)
 
+[Инди-курс программирования на Python](https://stepik.org/course/63085/promo)
+
 ## Англоязычные курсы
 
-https://www.w3schools.com/python/default.asp
+[W3schools / Python](https://www.w3schools.com/python/default.asp)
 
 [Python Basics](https://pythonbasics.org/)
 
