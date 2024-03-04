@@ -40,11 +40,13 @@ _ORM_
 sqlalchemy
 - https://skillbox.ru/media/code/sqlalchemy-chto-eto-takoe-i-zachem-nuzhno/
 - https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
+- https://metanit.com/python/database/3.1.php
 
 _sql_
 
 - https://skillbox.ru/media/code/sqlzaprosy-osnovnye-komandy-dlya-upravleniya-bazami-dannykh/
 - https://metanit.com/sql/
+- https://stepik.org/course/63054/promo
 - https://metanit.com/python/database/1.1.php
 - https://www.w3schools.com/sql/default.asp
 - https://www.w3schools.com/mysql/default.asp
@@ -69,5 +71,9 @@ _Django_
 ## Theory
 
 - https://www.w3schools.com/python/default.asp
+
+Декораторы
+
+Лямбда
 
 ## AI
