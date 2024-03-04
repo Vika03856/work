@@ -33,9 +33,11 @@ _nosql_
 - https://www.w3schools.com/mongodb/index.php
 - https://www.w3schools.com/python/python_mongodb_getstarted.asp
 
-_deploy_
+#### Deploy
 
+- https://docs.render.com/deploy-flask 
 - https://vercel.com/docs/functions/runtimes/python
+- https://fly.io/docs/languages-and-frameworks/python/
 
 ## Theory
 
