@@ -15,6 +15,7 @@ _web_
 #### DB
 
 - https://www.w3schools.com/python/pandas/default.asp
+- https://github.com/coleifer/sqlite-web
 
 _sql_
 
