@@ -18,8 +18,15 @@ _web_
 - https://github.com/coleifer/sqlite-web
 - https://sqliteviewer.app/
 
+_ORM_
+
+sqlalchemy
+- https://skillbox.ru/media/code/sqlalchemy-chto-eto-takoe-i-zachem-nuzhno/
+- https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
+
 _sql_
 
+- https://skillbox.ru/media/code/sqlzaprosy-osnovnye-komandy-dlya-upravleniya-bazami-dannykh/
 - https://metanit.com/sql/
 - https://metanit.com/python/database/1.1.php
 - https://www.w3schools.com/sql/default.asp
