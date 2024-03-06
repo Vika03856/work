@@ -17,9 +17,12 @@ Desktop App wit Tkinter/PyQT
 
 ## Data
 
-csv, json, xlsx
+**Универсальные форматы:**
+- csv, tcs
+- json, toml, yaml
+- xlsx
 
-_Pandas_
+**Pandas**
 - https://proglib.io/p/samouchitel-po-pandas-dlya-nachinayushchih-chast-25-osnovy-analiza-dannyh-s-pandas-2023-07-24
 - https://www.w3schools.com/python/pandas/default.asp
 - https://pythonbasics.org/pandas-json/
@@ -27,47 +30,56 @@ _Pandas_
 ## DB
 
 dbm, pickle и shelves
+- https://metanit.com/python/tutorial/4.6.php
+- https://pythonworld.ru/moduli/modul-pickle.html
 
+### SQL
+
+- https://metanit.com/python/database/1.1.php
+
+SQL
+- https://metanit.com/sql/
+- https://skillbox.ru/media/code/sqlzaprosy-osnovnye-komandy-dlya-upravleniya-bazami-dannykh/
+- https://stepik.org/course/63054/promo
+- https://www.w3schools.com/sql/default.asp
+  
 SQLite
 - https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-22-osnovy-raboty-s-sqlite-2023-06-15
-
-- https://www.w3schools.com/python/pandas/default.asp
 - https://github.com/coleifer/sqlite-web
 - https://sqliteviewer.app/
 
-_sql_
-
-- https://skillbox.ru/media/code/sqlzaprosy-osnovnye-komandy-dlya-upravleniya-bazami-dannykh/
-- https://metanit.com/sql/
-- https://stepik.org/course/63054/promo
-- https://metanit.com/python/database/1.1.php
-- https://www.w3schools.com/sql/default.asp
+MySQL
 - https://www.w3schools.com/mysql/default.asp
 - https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+PostgreSQL
 - https://www.w3schools.com/postgresql/index.php
 - https://supabase.com/docs/reference/python/introduction
 
-_nosql_
+### NoSQL
 
+MongoDB
 - https://www.w3schools.com/mongodb/index.php
 - https://www.w3schools.com/python/python_mongodb_getstarted.asp
 
-_ORM_
+
+### ORM
 
 sqlalchemy
 - https://skillbox.ru/media/code/sqlalchemy-chto-eto-takoe-i-zachem-nuzhno/
 - https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
 - https://metanit.com/python/database/3.1.php
 
-#### UI
+## UI
+
+Tkinter
 - https://metanit.com/python/tkinter/
 - https://pythonbasics.org/tkinter/
+
 - https://www.gradio.app/
 - https://pythonbasics.org/pyqt/
 
-
-#### Streamlit
-
+Streamlit
 - https://streamlit.io/
 - https://cheat-sheet.streamlit.app/
 
