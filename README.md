@@ -12,7 +12,6 @@ AI Tool
 - mistral/replicate/hugginface/transformers
 
 Desktop App wit Tkinter/PyQT
-- https://pythonbasics.org/pyqt-hello-world/
 
 # Tools
 
@@ -62,8 +61,10 @@ sqlalchemy
 
 #### UI
 - https://metanit.com/python/tkinter/
+- https://pythonbasics.org/tkinter/
 - https://www.gradio.app/
 - https://pythonbasics.org/pyqt/
+
 
 #### Streamlit
 
@@ -73,8 +74,9 @@ sqlalchemy
 #### Framework
 
 _Flask_
-- https://github.com/pallets/flask
 - https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-23-osnovy-veb-razrabotki-na-flask-2023-06-27
+- https://github.com/pallets/flask
+- https://pythonbasics.org/what-is-flask-python/
 
 _FastAPI_
 - https://metanit.com/python/fastapi/1.1.php
