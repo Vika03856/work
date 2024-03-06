@@ -70,20 +70,8 @@ sqlalchemy
 - https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
 - https://metanit.com/python/database/3.1.php
 
-## UI
 
-Tkinter
-- https://metanit.com/python/tkinter/
-- https://pythonbasics.org/tkinter/
-
-- https://www.gradio.app/
-- https://pythonbasics.org/pyqt/
-
-Streamlit
-- https://streamlit.io/
-- https://cheat-sheet.streamlit.app/
-
-#### Framework
+## Server
 
 _Flask_
 - https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-23-osnovy-veb-razrabotki-na-flask-2023-06-27
@@ -100,13 +88,27 @@ _Django_
 - https://www.w3schools.com/django/index.php
 - https://metanit.com/python/django/
 
-#### Deploy
+## Deploy
 
 - https://docs.render.com/deploy-flask 
 - https://vercel.com/docs/functions/runtimes/python
 - https://fly.io/docs/languages-and-frameworks/python/
 
-#### Разное
+## UI
+
+Tkinter
+- https://metanit.com/python/tkinter/
+- https://pythonbasics.org/tkinter/
+
+Streamlit
+- https://streamlit.io/
+- https://cheat-sheet.streamlit.app/
+
+Разное
+- https://www.gradio.app/
+- https://pythonbasics.org/pyqt/
+
+## Разное
 - https://pyscript.net/
 
 # Theory
