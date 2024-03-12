@@ -90,7 +90,8 @@ _Django_
 
 ## Deploy
 
-- https://docs.render.com/deploy-flask 
+- https://docs.render.com/deploy-flask
+- https://github.com/wasmer-examples/flask-wasmer-starter/tree/main
 - https://vercel.com/docs/functions/runtimes/python
 - https://fly.io/docs/languages-and-frameworks/python/
 
