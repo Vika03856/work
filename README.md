@@ -10,6 +10,7 @@ Presentation (Streamlit + Panda)
 AI Tool
 - https://huggingface.co/tasks/table-question-answering
 - mistral/replicate/hugginface/transformers
+- https://twitter.com/_philschmid/status/1760719556308258825
 
 Desktop App wit Tkinter/PyQT
 
