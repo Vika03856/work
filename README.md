@@ -1,18 +1,16 @@
 # Apps
 
-ToDo SaaS
-
-Book Store
+ToDo/BookStore/Kancelaria Web App (SaaS)
 
 Presentation (Streamlit + Panda)
 - https://docs.streamlit.io/get-started/fundamentals/main-concepts#use-magic
 
+Desktop App wit Tkinter/PyQT
+
 AI Tool
 - https://huggingface.co/tasks/table-question-answering
-- mistral/replicate/hugginface/transformers
 - https://twitter.com/_philschmid/status/1760719556308258825
-
-Desktop App wit Tkinter/PyQT
+- mistral/replicate/hugginface/transformers
 
 # Tools
 
