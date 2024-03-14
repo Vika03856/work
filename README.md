@@ -1,6 +1,6 @@
 # Apps
 
-ToDo/BookStore/Kancelaria Web App (SaaS)
+Kancelaria Web App (SaaS)
 
 Presentation (Streamlit + Panda)
 - https://docs.streamlit.io/get-started/fundamentals/main-concepts#use-magic
