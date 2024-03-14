@@ -5,7 +5,7 @@ Kancelaria Web App (SaaS)
 Presentation (Streamlit + Panda)
 - https://docs.streamlit.io/get-started/fundamentals/main-concepts#use-magic
 
-Desktop App wit Tkinter/PyQT
+Desktop App wit Tkinter
 
 AI Tool
 - https://huggingface.co/tasks/table-question-answering
