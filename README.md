@@ -17,7 +17,7 @@ AI Tool
 ## Data
 
 **Универсальные форматы:**
-- csv, tcs
+- csv, tsv
 - json, toml, yaml
 - xlsx
 
