@@ -117,7 +117,7 @@ Streamlit
 
 ## Русскоязычные курсы
 
-[Самоучитель по Python для начинающих]([https://pythontutor.ru/lessons/inout_and_arithmetic_operations/](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-1-osobennosti-sfery-primeneniya-ustanovka-onlayn-ide-2022-09-26))
+[Самоучитель по Python для начинающих](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-1-osobennosti-sfery-primeneniya-ustanovka-onlayn-ide-2022-09-26)
 
 [ПитонТьютор](https://pythontutor.ru/lessons/inout_and_arithmetic_operations/)
 
