@@ -97,6 +97,7 @@ _Django_
 
 Tkinter
 - https://metanit.com/python/tkinter/
+- https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-20-graficheskiy-interfeys-na-tkinter-2023-05-02
 - https://pythonbasics.org/tkinter/
 
 Streamlit
