@@ -21,6 +21,8 @@ AI Tool
 - json, toml, yaml
 - xlsx
 
+- https://metanit.com/python/tutorial/4.3.php
+
 **Pandas**
 - https://proglib.io/p/samouchitel-po-pandas-dlya-nachinayushchih-chast-25-osnovy-analiza-dannyh-s-pandas-2023-07-24
 - https://www.w3schools.com/python/pandas/default.asp
@@ -138,6 +140,10 @@ Streamlit
 Декораторы
 
 Лямбда
+
+Pattern matching
+
+
 
 async/await
 - https://docs-python.ru/tutorial/sintaksis-async-await-python/
