@@ -72,9 +72,6 @@ sqlalchemy
 - https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
 - https://metanit.com/python/database/3.1.php
 
-peewee
-- https://docs.peewee-orm.com/en/latest/index.html
-
 
 ## Server
 
@@ -98,6 +95,8 @@ _Django_
 - https://github.com/wasmer-examples/flask-wasmer-starter/tree/main
 - https://vercel.com/docs/functions/runtimes/python
 - https://fly.io/docs/languages-and-frameworks/python/
+
+## Firebase, Supabase, Appwrite
 
 ## UI
 
