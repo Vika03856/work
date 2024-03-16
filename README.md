@@ -17,11 +17,11 @@ AI Tool
 ## Data
 
 **Универсальные форматы:**
-- csv, tsv
+- [csv](https://metanit.com/python/tutorial/4.3.php), tsv
 - json, toml, yaml
 - xlsx
 
-- https://metanit.com/python/tutorial/4.3.php
+
 
 **Pandas**
 - https://proglib.io/p/samouchitel-po-pandas-dlya-nachinayushchih-chast-25-osnovy-analiza-dannyh-s-pandas-2023-07-24
