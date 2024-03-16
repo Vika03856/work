@@ -45,6 +45,7 @@ SQL
 - https://www.w3schools.com/sql/default.asp
   
 SQLite
+- https://metanit.com/python/database/1.2.php
 - https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-22-osnovy-raboty-s-sqlite-2023-06-15
 - https://github.com/coleifer/sqlite-web
 - https://sqliteviewer.app/
