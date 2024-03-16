@@ -71,6 +71,9 @@ sqlalchemy
 - https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
 - https://metanit.com/python/database/3.1.php
 
+peewee
+- https://docs.peewee-orm.com/en/latest/index.html
+
 
 ## Server
 
